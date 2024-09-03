@@ -23,11 +23,11 @@ a)	Code editor
 
 b)	Web browser
 
-c)	Downloaded version or CDN link for jQuery.
+c)	jQuery.
 
-d)	Downloaded version of Bootstrap to access css and js.
+d)	Bootstrap 
 
-e)	Downloaded version or CDN version of Popper.js
+e)	Popper.js
 
 
 
