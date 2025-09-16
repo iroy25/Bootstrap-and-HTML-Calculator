@@ -33,4 +33,8 @@ e)	Popper.js
 
                               DIAGRAM FOR CALCULATOR
 
-![image](https://github.com/user-attachments/assets/e8d5316f-2284-4deb-99f4-6a1e9e64bc2e)
+<img width="995" height="734" alt="Screenshot 2025-09-16 214317" src="https://github.com/user-attachments/assets/c2420631-32b2-48d6-ba56-262d81474416" />
+
+                                    OUTPUT
+
+<img width="570" height="782" alt="Screenshot 2025-09-16 214907" src="https://github.com/user-attachments/assets/b3dee36a-4bf7-4d78-8636-f8584729d678" />
